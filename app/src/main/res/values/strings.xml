@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">avtorizreg</string>
+    <string name="welcome_back">Welcome back \nto your app</string>
+    <string name="download_all_the_designs">Download all the designs Resource \navailable on the uilover channel for \nfree</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="create_account">Create \naccount</string>
+    <string name="email">Your email</string>
+    <string name="password">Your password</string>
+    <string name="already_have">Already have an account?</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_password_again">Enter your password again</string>
+    <string name="register">Register</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have">Don\'t have an account? Register!</string>
 </resources>

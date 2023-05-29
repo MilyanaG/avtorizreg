@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green">#A8C5AD</color>
     <color name="green2">#07933E</color>
+    <color name="textcolor">#38543D</color>
+    <color name="textcolor2">#605A6F</color>
+    <color name="textcolor3">#C8C4C9</color>
 </resources>

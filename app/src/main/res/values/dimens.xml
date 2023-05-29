@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activitytext">35sp</dimen>
+    <dimen name="margintext">100dp</dimen>
+    <dimen name="margintext2">65dp</dimen>
+    <dimen name="margintop1">15dp</dimen>
+    <dimen name="activitytext2">18sp</dimen>
+    <dimen name="buttonwidth">350dp</dimen>
+    <dimen name="buttonheight">55dp</dimen>
+    <dimen name="margintop2">30dp</dimen>
+    <dimen name="btntextsize1">23sp</dimen>
+    <dimen name="margintop3">20dp</dimen>
+    <dimen name="margintop4">80dp</dimen>
+    <dimen name="activitytext3">37sp</dimen>
+    <dimen name="activitytext4">20sp</dimen>
+    <dimen name="margintop5">90dp</dimen>
+    <dimen name="margintop6">10dp</dimen>
+    <dimen name="margintop7">45dp</dimen>
+    <dimen name="padding1">5dp</dimen>
+    <dimen name="margintop8">110dp</dimen>
+    <dimen name="activitytext5">17sp</dimen>
+    <dimen name="margintop9">60dp</dimen>
+    <dimen name="margintop10">70dp</dimen>
+    <dimen name="activitytext6">16sp</dimen>
+</resources>
